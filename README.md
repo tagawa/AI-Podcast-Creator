@@ -34,3 +34,9 @@ $ pip install -r requirements.txt
 $ python create_podcast.py
 ```
 6. Hopefully it worked! If not, check you have enough credits for OpenAI and/or ElevenLabs.
+
+## Reference
+
+OpenAI ChatGPT API docs: https://platform.openai.com/docs/guides/chat
+
+ElevenLabs API docs: https://api.elevenlabs.io/docs
