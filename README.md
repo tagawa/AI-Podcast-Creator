@@ -1,9 +1,14 @@
-# AI-Podcast-Creator
+# AI Podcast Creator
 A Python script to generate an audio podcast episode using APIs from OpenAI (ChatGPT) and ElevenLabs.
 
-Note that AI APIs are at an early stage and may change over time.
+## Notes
+
+Be aware that AI APIs are at an early stage and are likely to change over time.
 
 The Python file uses the Japan Times RSS feed but others should work too, e.g. NPR, BBC News, etc.
+
+Here's an example of the audio output:
+[sample_audio_output.zip](https://github.com/tagawa/AI-Podcast-Creator/files/10870172/sample_audio_output.zip)
 
 ## Requirements
 * OpenAI account and API key: https://platform.openai.com/account/api-keys
