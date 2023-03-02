@@ -37,6 +37,5 @@ $ python create_podcast.py
 
 ## Reference
 
-OpenAI ChatGPT API docs: https://platform.openai.com/docs/guides/chat
-
-ElevenLabs API docs: https://api.elevenlabs.io/docs
+* OpenAI ChatGPT API docs: https://platform.openai.com/docs/guides/chat
+* ElevenLabs API docs: https://api.elevenlabs.io/docs
