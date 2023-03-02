@@ -1,5 +1,6 @@
 # AI Podcast Creator
 A Python script to generate an audio podcast episode using APIs from OpenAI (ChatGPT) and ElevenLabs.
+ChatGPT generates an informal commentary based on news headlines and ElevenLabs reads that out with a human-sounding voice.
 
 ## Notes
 
