@@ -15,6 +15,7 @@ https://user-images.githubusercontent.com/94173/222420989-a84aa444-d785-4224-bb7
 ## Requirements
 * OpenAI account and API key: https://platform.openai.com/account/api-keys
 * ElevenLabs account and API key: https://beta.elevenlabs.io
+* Python 3
 
 ## Installation
 1. Download the files in this repository to a local directory.
