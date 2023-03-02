@@ -7,8 +7,9 @@ Be aware that AI APIs are at an early stage and are likely to change over time.
 
 The Python file uses the Japan Times RSS feed but others should work too, e.g. NPR, BBC News, etc.
 
-Here's an example of the audio output:
-[sample_audio_output.zip](https://github.com/tagawa/AI-Podcast-Creator/files/10870172/sample_audio_output.zip)
+Here's an example of the audio output (converted to video):
+
+https://user-images.githubusercontent.com/94173/222420989-a84aa444-d785-4224-bb7e-5e6b2d039a8c.mp4
 
 ## Requirements
 * OpenAI account and API key: https://platform.openai.com/account/api-keys
