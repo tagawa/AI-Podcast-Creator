@@ -27,6 +27,11 @@ $ cp .env.example .env
 ```
 $ nano .env
 ```
+Use this format in the `.env` file:
+```
+OPENAI_API_KEY=YOUR-PRIVATE-KEY
+ELEVENLABS_API_KEY=YOUR-PRIVATE-KEY
+```
 4. Install any requirements using pip and the `requirements.txt` file. You may need to use `pip3` instead of `pip`.
 ```
 $ pip install -r requirements.txt
